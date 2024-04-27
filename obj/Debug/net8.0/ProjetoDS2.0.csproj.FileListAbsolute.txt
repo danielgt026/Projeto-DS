@@ -135,3 +135,4 @@ C:\ProjetoDS2.0\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Projeto
 C:\ProjetoDS2.0\obj\Debug\net8.0\staticwebassets.pack.json
 C:\ProjetoDS2.0\obj\Debug\net8.0\scopedcss\bundle\ProjetoDS2.0.styles.css
 C:\ProjetoDS2.0\obj\Debug\net8.0\ProjetoD.C90BE32E.Up2Date
+C:\ProjetoDS2.0\obj\Debug\net8.0\ProjetoDS2.0.sourcelink.json

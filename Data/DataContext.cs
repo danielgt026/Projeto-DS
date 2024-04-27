@@ -14,7 +14,6 @@ namespace ProjetoDS.Data
         public DataContext (DbContextOptions <DataContext> options) : base (options)
         {
         }
-
         public DbSet<Tarefas> TB_TAREFAS { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
